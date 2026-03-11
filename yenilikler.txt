@@ -1,0 +1,4 @@
+🌟 SÜRÜM 1.1 YAYINLANDI! 🌟
+- Çift nöbet sıralama ekranı eklendi.
+- Nöbet kuralları otomatik olarak kağıdın en altına eklendi.
+- Arşivleme ve verileri geri getirme (Zaman Makinesi) sistemi eklendi!
