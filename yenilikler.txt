@@ -1,4 +1,7 @@
-🌟 SÜRÜM 1.1 YAYINLANDI! 🌟
-- Çift nöbet sıralama ekranı eklendi.
-- Nöbet kuralları otomatik olarak kağıdın en altına eklendi.
-- Arşivleme ve verileri geri getirme (Zaman Makinesi) sistemi eklendi!
+✅ Adil Çift Nöbet Dağıtımı: Çift nöbetlerin sürekli aynı kişilere denk gelmesi sorunu tamamen çözüldü. Artık çift nöbetler, en az nöbet tutan öğretmene öncelik verilecek şekilde adilce paylaştırılıyor.
+
+✅ Kesintisiz Veri Güvenliği: Program veya bilgisayar aniden kapansa bile verilerinizin silinmesini önleyen "Otomatik Kurtarma" sistemi eklendi.
+
+✅ Yeni Özellikler ve Sade Arayüz: Nöbet tarih seçimi ekranı kolaylaştırıldı ve "Öğretmenler" sayfasına anlık çalışan Toplam Öğretmen Sayacı eklendi.
+
+✅ Sessiz Güncelleme Altyapısı: Bir sonraki güncellemeleri (v1.3 ve sonrası) web sitesine gitmeye gerek kalmadan, program içinden tek tıkla arka planda otomatik kurmanızı sağlayacak akıllı sistem eklendi.
