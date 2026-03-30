@@ -1,1 +1,2 @@
 Çift nöbet algoritması düzeltildi, otomatik indirme ve veri kurtarma eklendi
+nöbetçi müdür yardımcısı ve cinsiyet eklendi.
